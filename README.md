@@ -35,4 +35,7 @@ Now that you've installed XAMPP, it's time to download Wordpress. You can find i
 
 1.2 Making the website on a local server
 
+We have everything ready to run our Wordpress. There are some important steps you need to take for the website to work
+
+
 
