@@ -10,7 +10,7 @@ To install wordpress you need:
 - have a database (XAMPP)
 - wordpress files to install
 
-1.1 Installing a XAMPP
+1.1 Installing a XAMPP and wordpress download
 
 To install the XAMPP package, we need the installer. We download from the site https://www.apachefriends.org.
 Select the appropriate version for your computer and download the installer.
@@ -32,5 +32,7 @@ Next and install.
 Now that you've installed XAMPP, it's time to download Wordpress. You can find it at https://pl.wordpress.org/download/.
 
 ![Screenshot_5](https://user-images.githubusercontent.com/105982073/169694247-8852fa8f-e664-49b3-9d07-250f68208630.png)
+
+1.2 Making the website on a local server
 
 
