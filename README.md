@@ -1,23 +1,23 @@
 # Wordpress
 # Technical documentary for website wordpress
 
-Wordpress is a free software designed to create and maintain blogs and websites without any coding knowledge. Its greatest advantage is its ease and simplicity of use. Thanks to it, without having any programming knowledge, you can achieve a lot on the Internet.
+Wordpress is a free software designed to create and maintain blogs and websites without any coding knowledge. It's greatest advantage it's easy and simplicity of use. Thanks to it, without having any programming knowledge, you can achieve a lot on the Internet.
 
 ## 1. Installing a new backup 
 
-To install wordpress you need:
+To install WordPress you need:
 - have a server where you will put your wordpress website (for example, we will use a local server using the XAMPP package)
 - have a database (XAMPP)
 - wordpress files to install
 
-## 1.1 Installing a XAMPP and wordpress download
+## 1.1 Installing a XAMPP and WordPress download
 
 To install the XAMPP package, we need the installer. We download from the site https://www.apachefriends.org.
 Select the appropriate version for your computer and download the installer.
 
 ![Screenshot_1](https://user-images.githubusercontent.com/105982073/169693388-fc322a61-02b3-423f-be37-6bebe9e470c7.png)
 
-After downloading our installer, run it and install it. Here we select all options and move on next.
+After downloading our installer, run and install it. Here we select all options and move on next.
 
 ![Screenshot_2](https://user-images.githubusercontent.com/105982073/169693715-0ce4d8ce-a50a-4520-b3bd-39fa426f8418.png)
 
@@ -29,7 +29,7 @@ Next and install.
 
 ![Screenshot_4](https://user-images.githubusercontent.com/105982073/169693997-0f440dfa-647b-4a6e-ba3c-af59de1123ed.png)
 
-Now that you've installed XAMPP, it's time to download Wordpress. You can find it at https://pl.wordpress.org/download/.
+Now you've installed XAMPP (it's our server www), it's time to download Wordpress. You can find it at https://pl.wordpress.org/download/ or you can dowload from this repo.
 
 ![Screenshot_5](https://user-images.githubusercontent.com/105982073/169694247-8852fa8f-e664-49b3-9d07-250f68208630.png)
 
@@ -42,24 +42,24 @@ Launch XAMPP and start Apache and MySQL.
 ![Screenshot_6](https://user-images.githubusercontent.com/105982073/169696111-3d41bad5-88c2-4872-82fa-9bebea06a1ec.png) 
 ![Screenshot_7](https://user-images.githubusercontent.com/105982073/169696118-404d5b5d-d740-4d8c-bd27-2244b8c3fc62.png)
 
-First, let's take a look at our database. Select **admin** from the MySQL module
-You are now in the main phpmyAdmin dashboard which is a database management tool. In it, we will create a database that will work with wordpress
+First, let's take a look at our database. Select **admin** from the MySQL module.
+You are now in the main phpmyAdmin dashboard which is a database management tool. In it, we will create a database for WordPress.
 Go to the database tab and then in the database name field enter the name of your database (**Wordpress** is given here) and then click **create**.
 
 ![Screenshot_8](https://user-images.githubusercontent.com/105982073/169697304-81265d53-58ba-493e-8f6f-c67531c9de9c.png)
 
-Once we have the database in place, we need to take care of the files on the server. Go to the XAMPP folder (Where you saved the path before installing) ---> **htdocs** and create a folder for wordpress files.
+Once we have the database in place, we need to take care of the files on the server. Go to the XAMPP folder (Where you saved the path before installing) ---> **htdocs** and create a folder for WordPress files.
 
 ![Screenshot_9](https://user-images.githubusercontent.com/105982073/169699965-c4bfa458-0c5e-4953-97ec-50a9b882d6da.png)
 
-Now we are ready to install our wordpress. Go to the XAMPP panel and click **Admin** from the Apache module. A browser opens with a welcome text from XAMPP. In the browser address, change the address from **localhost:dashborad/** to **localhost:your_file_name/**.
+Now we are ready to install our WordPress. Go to the XAMPP panel and click **Admin** from the Apache module. A browser opens with a welcome text from XAMPP. In the browser address, change the address from **localhost:dashboard/** to **localhost:your_file_name/**.
 
 ![Screenshot_10](https://user-images.githubusercontent.com/105982073/169700349-e8b76173-9d7d-4b8b-bbc5-c0974386b10c.png)
 
-We are currently in the wordpress installer, so we are starting the installation. Click **Start** and move on next.
+We are currently in the WordPress installer, so we are starting the installation. Click **Start** and move on next.
 
 Now we need to provide the database connection details:
-- Database name: **we put there the name of the previously created table**
+- Database name: **we put there the name of the previously created table** (We type wordpress)
 - User name: **root**
 - Password: **none**
 - Database server address: **localhost**
@@ -75,11 +75,11 @@ Now we have to log in.
 
 ![Screenshot_12](https://user-images.githubusercontent.com/105982073/169701478-61ed092b-d3c0-4b95-b8b5-6b4a72b388bc.png)
 
-Voilà! We now have wordpress installed and we can start working :tada:. 
+Voilà! We now have WordPress installed and we can start working :tada:. 
 
-## 2. How to start? Wordpress options available.
+## 2. How to start? WordPress options available.
 
-Wordpress is easy to use. This software gives us a lot of possibilities and options to use.
+WordPress is easy to use. This software gives us a lot of possibilities and options to use.
 
 ![Screenshot_14](https://user-images.githubusercontent.com/105982073/169702304-69116ece-fbea-4579-9a5c-a6cae44c7ea6.png)
 
@@ -103,7 +103,7 @@ There are a lot of tools here that we can use to publish our post. In addition t
 - **Permalink**: Just link for post
 - **Categories, Tags, Featured image, Discussion**: They increase user access and interest
 
-Once you have finished writing your post, you can publish it by with the blue button **Publish** and see him.
+Once you have finished writing your post, you can publish it by the blue button **Publish** and see it.
 
 ![Screenshot_16](https://user-images.githubusercontent.com/105982073/169705601-311b8dcc-3a16-4a2c-a713-ec488cb3545e.png)
 
@@ -121,13 +121,13 @@ Adding pages looks a lot like adding posts.
 
 ## **2.5 Comments**
 
-It presents comments posted by users, authors of pages or posts, and admins
+It presents comments posted by users, authors of pages or posts and admins.
 
 ![Screenshot_18](https://user-images.githubusercontent.com/105982073/169706445-10d18005-fb86-44b9-bbe5-9b4138748bcd.png)
 
 ## **2.6 Appearance**
 
-Customize the theme for our site. We can choose a theme from around 5,000 available from Wordpress.
+Customize the theme for our site. We can choose the theme from around 5,000 available from WordPress.
 
 ![Screenshot_19](https://user-images.githubusercontent.com/105982073/169706872-4e0e4c70-54da-4e6b-9dee-86d171d08c44.png)
 ![Screenshot_21](https://user-images.githubusercontent.com/105982073/169706900-e90eb839-80e1-4491-81b3-964c36b93d88.png)
