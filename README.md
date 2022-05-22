@@ -10,7 +10,7 @@ To install wordpress you need:
 - have a database (XAMPP)
 - wordpress files to install
 
-1.1 Installing a XAMPP and wordpress download
+## 1.1 Installing a XAMPP and wordpress download
 
 To install the XAMPP package, we need the installer. We download from the site https://www.apachefriends.org.
 Select the appropriate version for your computer and download the installer.
@@ -76,4 +76,89 @@ Now we have to log in.
 ![Screenshot_12](https://user-images.githubusercontent.com/105982073/169701478-61ed092b-d3c0-4b95-b8b5-6b4a72b388bc.png)
 
 Voilà! We now have wordpress installed and we can start working :tada:. 
+
+## 2. How to start? Wordpress options available.
+
+Wordpress is easy to use. This software gives us a lot of possibilities and options to use.
+
+![Screenshot_14](https://user-images.githubusercontent.com/105982073/169702304-69116ece-fbea-4579-9a5c-a6cae44c7ea6.png)
+
+## **2.1 Dashboard**
+
+- **Home**: Here you will find the main information about the site. news, events, site activity, site health status.
+- **Updates**: Here you can find information about updates, set auto-updates and see what plugins or themes need updating.
+
+## **2.2 Posts**
+
+This option is used to publish a blog post. You can view your posts as well as publish them.
+
+After going to the option **add post**, we go to the post creator. 
+
+![Screenshot_15](https://user-images.githubusercontent.com/105982073/169705334-6590e1fa-2ca0-49f2-a651-1a72e392d6cc.png)
+
+There are a lot of tools here that we can use to publish our post. In addition to writing any text, we have options like:
+- **Visibility**: We can decide who sees our post
+- **Publish**: planed publication of the post
+- **Author**: Possibility to include the author's name in the text
+- **Permalink**: Just link for post
+- **Categories, Tags, Featured image, Discussion**: They increase user access and interest
+
+Once you have finished writing your post, you can publish it by with the blue button **Publish** and see him.
+
+![Screenshot_16](https://user-images.githubusercontent.com/105982073/169705601-311b8dcc-3a16-4a2c-a713-ec488cb3545e.png)
+
+## **2.3 Media**
+
+Library of photos, videos, sounds. By uploading files to it, we can use them later to publish pages.
+
+![Screenshot_20](https://user-images.githubusercontent.com/105982073/169706802-c1124e0c-8793-4ec2-b66f-2f72749f0b10.png)
+
+## **2.4 Pages**
+
+Adding pages looks a lot like adding posts.
+
+![Screenshot_17](https://user-images.githubusercontent.com/105982073/169706318-d5a35f1b-c367-4aed-a7ec-8ecb880b5f2c.png)
+
+## **2.5 Comments**
+
+It presents comments posted by users, authors of pages or posts, and admins
+
+![Screenshot_18](https://user-images.githubusercontent.com/105982073/169706445-10d18005-fb86-44b9-bbe5-9b4138748bcd.png)
+
+## **2.6 Appearance**
+
+Customize the theme for our site. We can choose a theme from around 5,000 available from Wordpress.
+
+![Screenshot_19](https://user-images.githubusercontent.com/105982073/169706872-4e0e4c70-54da-4e6b-9dee-86d171d08c44.png)
+![Screenshot_21](https://user-images.githubusercontent.com/105982073/169706900-e90eb839-80e1-4491-81b3-964c36b93d88.png)
+![Screenshot_22](https://user-images.githubusercontent.com/105982073/169706944-f14e13f6-48ac-4a4a-8712-941c5d79281b.png)
+
+## **2.7 Plugins**
+
+WordPress plugins are small web applications (functions and routines) that run in a WordPress environment. Plugins can extend the functionality of the WordPress system, change the standard operation of this system, optimize its operation or automate the performance of certain works.
+
+![Screenshot_23](https://user-images.githubusercontent.com/105982073/169707115-07c27c0b-3891-468c-a8dc-cf880bc78c96.png)
+![Screenshot_24](https://user-images.githubusercontent.com/105982073/169707117-c0bd527c-08b6-49ce-a9a6-c325a6db4623.png)
+
+## **2.8 Users**
+
+User roles is a WordPress functionality whose task is to grant or revoke permissions to a specific user. With the help of user roles, you can define which features of your website you will grant access to a new (or existing) user. You can also personalize the user profile
+
+## **2.9 Tools**
+
+In the available tools you can import different pages or export your own. In addition, you have a site status preview and you can export or delete your personal data for other purposes. Additionally, there is a file editor available.
+
+## **2.10 Settings**
+
+The settings are used to set the final appearance of the page. There you have the option to change:
+
+- website name, address
+- time zone
+- date and time format
+- home page selection
+- modifications to entries, posts, comments
+- media sizes
+- tag alias
+- link settings
+
 
