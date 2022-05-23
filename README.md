@@ -107,6 +107,15 @@ Once you have finished writing your post, you can publish it by the blue button 
 
 ![Screenshot_16](https://user-images.githubusercontent.com/105982073/169705601-311b8dcc-3a16-4a2c-a713-ec488cb3545e.png)
 
+To add your first post, you can also go to the **Add New** tab.
+
+Here we can enter the title of the article and we can write the text that we want to present on the blog. We can choose the mode in which we will write:
+
+- **Visual** - writing in document style with selection of typography and text formatting (like Word or LibreOffice)
+- **Text** - post writing style is encoding (HTML)
+
+![Screenshot_25](https://user-images.githubusercontent.com/105982073/169765689-0aa59ed1-8a3f-4871-a6a1-3472b53e678c.png)
+
 ## **2.3 Media**
 
 Library of photos, videos, sounds. By uploading files to it, we can use them later to publish pages.
@@ -160,5 +169,7 @@ The settings are used to set the final appearance of the page. There you have th
 - media sizes
 - tag alias
 - link settings
+
+
 
 
